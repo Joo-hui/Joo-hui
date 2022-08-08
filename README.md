@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![명함](https://user-images.githubusercontent.com/105042922/183374624-f5f218be-eefe-4616-9aa6-440c2801948d.png)
+
 
 <!--
 **Joo-hui/Joo-hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
